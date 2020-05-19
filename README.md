@@ -6,3 +6,5 @@ This repository is for showing how Git and GitHub work
 
 fork the repo and raise pull req
 Sample website with plenty of files for demos
+
+git rebase lectures
