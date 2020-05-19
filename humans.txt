@@ -2,7 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	raj kiran 
+	rajkiran485@gmail.com
+	software developer
     <name> raj kiran  <twitter>
 
 # THANKS
